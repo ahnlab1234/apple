@@ -5,7 +5,7 @@
 
 int main()
 {
-	print("apple");
+	printf("apple");
     std::cout << "Hello World!\n";
 }
 
